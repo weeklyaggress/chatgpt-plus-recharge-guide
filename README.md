@@ -4,6 +4,19 @@
 
 先说结论：**能自己用外卡在官网订阅的，优先自己订；没有外卡、又不想折腾的，再考虑代充，但一定要先搞清楚对方用的是什么渠道。**
 
+<p align="center"><b>👇 三个按钮，点哪个进哪个</b></p>
+
+<p align="center">
+  <a href="https://nbid666.com/products/gpt-plus-ph?utm_source=github&utm_medium=repo&utm_campaign=chatgpt-plus-recharge"><img src="assets/btn_gpt_plus.png" alt="GPT Plus 菲区月卡 ¥121.9 立即购买" height="64"></a>
+  <br><br>
+  <a href="https://nbid666.com/products/gpt-pro-5x?utm_source=github&utm_medium=repo&utm_campaign=gpt-pro-5x"><img src="assets/btn_gpt_pro.png" alt="GPT Pro 5X ¥707.25" height="64"></a>
+  <br><br>
+  <a href="https://nbid666.com/products?utm_source=github&utm_medium=repo&utm_campaign=gpt-all"><img src="assets/btn_gpt_all.png" alt="查看全部 GPT 充值商品" height="64"></a>
+</p>
+
+<p align="center"><b>① 菲区月卡</b> ¥121.9 直接下单 ｜ <b>② Pro 5X</b> ¥707.25 ｜ <b>③ 全部商品</b> 实时价格</p>
+
+
 ## 一、官方渠道怎么充
 
 ChatGPT Plus 官方价 20 美元/月，有两种常见方式：
@@ -80,3 +93,10 @@ ChatGPT Plus 官方价 20 美元/月，有两种常见方式：
 - [腾讯云前置账号指南](https://github.com/weeklyaggress/tencent-cloud-front-account)
 
 > 免责声明：本仓库是使用经验整理，不是 OpenAI 官方页面；代充属于第三方服务，购买前请自行判断渠道与风险。
+
+<!-- AUTO-REFRESH:START -->
+## 最新动态（2026-11-23）
+
+- 当前价格：GPT Plus 菲区月卡 ¥121.90 ｜ GPT Pro 5X ¥707.25 ｜ GPT Pro 20X ¥1134.82
+- 下单前记得确认：是「帮你付」还是「给你号」，订阅是否落在你自己账号。
+<!-- AUTO-REFRESH:END -->
